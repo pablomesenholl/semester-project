@@ -11,3 +11,10 @@ Project Log
 	run a minimal-drift example successfully
 	read and work through https://opalx-project.github.io/opalx-manual/getting-started/worked-inputs.html
 	start to analyse test sim input and output files
+22.09.26:
+	analysed minimal-drift example input and output
+	small test plotting of statistics
+23.09.26:
+	FODO no spacecharge working directory
+	FODO no spacecharge start on input file
+	OPALX MAD style input file template created	
