@@ -18,3 +18,12 @@ Project Log
 	FODO no spacecharge working directory
 	FODO no spacecharge start on input file
 	OPALX MAD style input file template created	
+24.09.26: 
+	First FODO no spacecharge input file works
+	Params for distr for FODO input can be improved
+	Learn about accelerator physics and FODO cell
+25.09.26:
+	Do the math to match momentum width to space width of fodo cell
+	Run improved FODO cell
+	Create python analysis script to plot: envelopes, emittance, corr and phase space snapshots
+
